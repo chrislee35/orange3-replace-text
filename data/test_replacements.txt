@@ -1,0 +1,3 @@
+father	parent
+cat	feline
+castle	house
